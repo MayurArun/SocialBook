@@ -25,3 +25,6 @@ This HTML code represents a social media platform interface named "SocialBook" a
 - Contains copyright information for the content.
 
 This HTML code integrates with CSS for styling and JavaScript for interactivity. It creates a responsive web layout suitable for social media platform use.
+
+[View Live Demo](https://glittery-lebkuchen-be5269.netlify.app/)
+
